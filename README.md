@@ -1,7 +1,7 @@
 # JSAssessments
 Create assessments and surveys straight in javascript - no database needed.
 
-Sometimes you want to make a survey quickly, but you don't
+Sometimes you want to make a survey quickly, but you don't want to use SurveyMonkey for some arbitrary reason.
 
 This tool takes a JSON file and turns it into an assessment. To do that, include both the assessments.js and a file with a variable called 'assessment' to your html file.
 
