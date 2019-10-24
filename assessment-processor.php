@@ -13,6 +13,6 @@ $mailmsg = $mailmsg . "Hostname: " . gethostbyaddr($_SERVER['REMOTE_ADDR']) . "\
 
 // E-mail it to david@dworin.com
 
-mail('david@dworin.com','New Assessment Response',$mailmsg);
+mail('YOUREMAIL@DOMAIN.COM','New Assessment Response',$mailmsg);
 
 ?>
